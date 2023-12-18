@@ -272,3 +272,6 @@
 	path = libraries/sky130_fd_pr_reram/latest
 	url = https://github.com/google/skywater-pdk-libs-sky130_fd_pr_reram.git
 	branch = main
+[submodule "libraries/sky130_fd_pr/xyce"]
+	path = libraries/sky130_fd_pr/xyce
+	url = https://github.com/nbingham1/skywater-pdk-libs-sky130_fd_pr-xyce.git
